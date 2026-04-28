@@ -1,8 +1,8 @@
-# 📘 Food Ordering User Guide
+Food Ordering User Guide
 
 This project is a technical writing document that provides a step-by-step guide for ordering food using the Zomato app.
 
-## 📌 Features
+Features
 - Step-by-step instructions
 - Screenshots for better understanding
 - Troubleshooting section
@@ -10,18 +10,19 @@ This project is a technical writing document that provides a step-by-step guide 
 - User workflow summary
 - UX and product improvement suggestions
 
-## 🛠 Tools Used
+Tools Used
 - Microsoft Word
 - Canva (for user journey diagram)
 
-## 📂 Files Included
+Files Included
 - User Guide (PDF)
 - Images (screenshots)
 
-## 🎯 Purpose
+Purpose
 This project demonstrates my ability to create structured, user-friendly technical documentation with a focus on usability and clarity.
 
-2. Troubleshooting Guide for Food Delivery Applications
+Troubleshooting Guide for Food Delivery Applications
+
 A comprehensive guide to resolving common user issues.
 
 Key Features:
