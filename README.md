@@ -20,3 +20,16 @@ This project is a technical writing document that provides a step-by-step guide 
 
 ## 🎯 Purpose
 This project demonstrates my ability to create structured, user-friendly technical documentation with a focus on usability and clarity.
+
+2. Troubleshooting Guide for Food Delivery Applications
+A comprehensive guide to resolving common user issues.
+
+Key Features:
+1. Introduction  
+2. Scope  
+3. Common Issues Overview  
+4. Troubleshooting Procedures  
+5. Escalation Process  
+6. Quick Fix Tips  
+7. FAQs  
+8. Conclusion  
